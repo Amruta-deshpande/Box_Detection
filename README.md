@@ -23,6 +23,9 @@ Python3
 
 4. Select choose file and upload the input image.
 
+# Main Code File
+Refer to edge_detection.py in challenge folder under uploads for actual rectangle detection code.
+
 # Output Interpretation
 1. The output image is generated in the challenge folder under uploads.
 
